@@ -4,7 +4,7 @@
 committed result file (`logs/results/`, `logs/probes_*.json`,
 `logs/steering_*.json`); nothing is projected or estimated unless marked.*
 
-**Author:** [author name] · **Code, checkpoints, data recipes:**
+**Author:** Action For Sustainability Initiative (AFOSI) · **Code, checkpoints, data recipes:**
 github.com/Action-For-Sustainability-Initiative/salama-lm · Code Apache-2.0, text CC-BY
 
 ---
